@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/english_keyboard_symbols" iconResId="@drawable/ic_status_english_custom"
+              layoutResId="@xml/qwerty_with_symbols" landscapeResId="@xml/qwerty_with_symbols"
+              id="bf6e464a-8eed-4ffd-a29d-f184d9444f70"
+              defaultDictionaryLocale="en_cust" description="@string/english_keyboard_symbols_description"
+              index="1" defaultEnabled="false"
+              physicalKeyboardMappingResId="@xml/english_physical" />
+</Keyboards>

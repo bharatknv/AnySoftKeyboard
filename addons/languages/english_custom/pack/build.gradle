@@ -1,0 +1,9 @@
+ext.status_icon_text = "en"
+
+ext.dictionaryInputPossibleCharacters = null//"".toCharArray()
+ext.dictionaryInputAdditionalInnerCharacters = null//"".toCharArray()
+ext.shouldBePublished = false
+ext.notPublishingReason = "Initial version has not been published yet"
+ext.status_icon_text = "en"
+
+apply from: "$rootDir/addons/gradle/language_pack_lib.gradle"
